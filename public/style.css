@@ -1,0 +1,24 @@
+body{
+	color:#900;
+	font-family: sans-serif;
+	padding:30px;
+}
+
+ul li{
+	color:green;
+	
+}
+
+header{
+	color:blue;
+}
+header:hover{
+	color:#900;
+}
+
+footer{
+	width:100%;
+	text-align: center;
+	border:1px solid #000;
+	bottom:0px;
+}
